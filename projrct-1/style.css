@@ -1,0 +1,108 @@
+{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: 0;
+}
+
+.highlight{
+    color:orange;
+    font-size: 40px;
+}
+.font{
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow: 2px 3px rgb(206, 13, 71);
+}
+p{
+font-size: 20px;
+}
+
+
+
+.half-width{
+    width: 40%;
+    float: left;
+   margin-left: 4%;
+   padding: 2%;
+}
+.half-width img{
+   width: 90%;
+   border: 8px solid rgb(42, 241, 198);
+   border-radius: 50px;
+}
+a{    margin-top: 10px;}
+.button{
+
+  text-decoration: none;  
+  font-weight: 700px;
+  background-color: aqua;
+  padding: 10px 20px;
+  background-image: linear-gradient(45deg,rgb(0, 255, 85),rgb(209, 54, 54),rgb(25, 153, 25));
+  border-radius: 8px;
+  color: aliceblue;
+}
+.top-bannar{
+    background-image: url(./bgimg-1.webp);
+    background-size: cover;
+}
+.clr{
+    clear: both; /* background img jokhon kaj na kore,background er hide jodi kono karone na pay , tokhon {clear both}use korte hoy*/
+}
+
+        /* second section */
+
+
+
+        .dream-aria{
+            background-image: url(./bgimg-2.webp);
+            background-size: cover;
+        }
+
+        .para{
+            border: 8px double rgb(184, 12, 12);
+            border-radius: 10px;
+            padding: 5px;
+           
+            background-image: linear-gradient(rgb(161, 219, 161),rgb(235, 144, 144),rgb(137, 137, 223));
+        }
+        .button2{
+            text-decoration: none;  
+            font-weight: 700px;
+            padding: 7px 23px;
+            background-image: linear-gradient(45deg,rgb(255, 134, 35),rgb(82, 243, 18),rgb(253, 9, 143));
+            border-radius: 8px;
+            color: rgb(245, 20, 4);
+            margin-top: 10px !important;
+        }
+             /*--section three--*/
+        
+             .fonte{margin: 0;
+               padding-top: 20px;
+                margin-left: 50px;
+                 color: rgb(27, 238, 8);
+                 font-size: 40px;
+                 text-shadow: 2px 2px rgb(255, 10, 10);
+                 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+             }
+         .box-size{
+            box-shadow: 15px 15px 70px rgb(255, 32, 3); 
+            border: 5px solid rgb(4, 241, 24);
+           height: 300px;
+            background-color: rgb(207, 240, 229);
+            border-radius: 10px;
+            
+         }
+         .ecperience-aria{
+             background-image: url(./bgimg-3.png);
+             background-repeat: no-repeat;
+             background-size: cover;
+            
+         }
+         .text-color{
+           color: rgb(248, 101, 3);
+         }
+         
+         
